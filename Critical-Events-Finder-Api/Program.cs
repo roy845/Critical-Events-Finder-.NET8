@@ -1,8 +1,12 @@
 ﻿using Critical_Events_Finder_Api.Interfaces;
 using Critical_Events_Finder_Api.Services;
 using Microsoft.OpenApi.Models;
+using OfficeOpenXml;
 
 var builder = WebApplication.CreateBuilder(args);
+
+ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
 
 // Register services
 builder.Services.AddScoped<ICriticalEventsService, CriticalEventsService>();
