@@ -1,0 +1,6 @@
+@Critical_Events_Finder_Api_HostAddress = http://localhost:5160
+
+GET {{Critical_Events_Finder_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

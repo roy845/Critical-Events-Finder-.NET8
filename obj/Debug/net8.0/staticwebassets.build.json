@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "ANtxD3wgZZ8baizWAK+I9C7o2tO1bZAX30NMfQnne0A=",
+  "Source": "Critical-Events-Finder-Api",
+  "BasePath": "_content/Critical-Events-Finder-Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Critical-Events-Finder-Api\\wwwroot",
+      "Source": "Critical-Events-Finder-Api",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\asset-manifest.json",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "asset-manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "riwq25h67r",
+      "Integrity": "3dKryPC4emnGai+ZpLFYK2hjzGQECF4B2I6s1x4jl1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\asset-manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\favicon.ico",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "obaihapwdt",
+      "Integrity": "PFJDhLOpubWb293Gy12Or3n/0H+1EIAHE4bg+DLoBWM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\index.html",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vhafptv4wm",
+      "Integrity": "HeD7M/aQs3yEUAY2PmYsnarbLMPD7tpm7cDUZ1z1FW0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo192.png",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "logo192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rbahvdx0ii",
+      "Integrity": "ec4Tv49YT8fv2alsQ4C3Mw4TaQYt6B1CdZAJxeB5yjc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo192.png"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo512.png",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "logo512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ddbxrua3uq",
+      "Integrity": "0UoiX6xUFHA4V4kbBFUr4kuknwpRR53FJoWJ08MPDak=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo512.png"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\manifest.json",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "manifest#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xnb7ssc67i",
+      "Integrity": "M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\manifest.json"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\robots.txt",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "robots#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rs9qwwwsq7",
+      "Integrity": "5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\robots.txt"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "static/css/main.bfdf6ea8#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1vzl2bgvyw",
+      "Integrity": "zba05unOm3Vfzm8Qdnh/pvyVqltJ64hIulA78KjEtt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.bfdf6ea8.css"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css.map",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "static/css/main.bfdf6ea8.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fvie8y6q3o",
+      "Integrity": "9fjeHxiRh+7nh9eIFlzk+ToPJTsIs0UyQeOcSUIWkE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\css\\main.bfdf6ea8.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "static/js/main.b34b723a#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mmf75aqo0f",
+      "Integrity": "3nfZHfsPdEdQxFjdEdbP5qOutQPIDkh6Qu7ExCTE0+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.b34b723a.js"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.LICENSE.txt",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "static/js/main.b34b723a.js.LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1b1fqss7a",
+      "Integrity": "1Dq2khf9SifivB8zyTLcEhtvl7Nz6cHhKNryz8CGzKM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.b34b723a.js.LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.map",
+      "SourceId": "Critical-Events-Finder-Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\",
+      "BasePath": "_content/Critical-Events-Finder-Api",
+      "RelativePath": "static/js/main.b34b723a.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5pbowtahf3",
+      "Integrity": "xxriUHP7KdXeK2da7s5kCS0vQLD3TJ4JeXPtobFQt6I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\static\\js\\main.b34b723a.js.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "asset-manifest.json",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dKryPC4emnGai+ZpLFYK2hjzGQECF4B2I6s1x4jl1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dKryPC4emnGai+ZpLFYK2hjzGQECF4B2I6s1x4jl1A="
+        }
+      ]
+    },
+    {
+      "Route": "asset-manifest.riwq25h67r.json",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\asset-manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3dKryPC4emnGai+ZpLFYK2hjzGQECF4B2I6s1x4jl1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "riwq25h67r"
+        },
+        {
+          "Name": "label",
+          "Value": "asset-manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3dKryPC4emnGai+ZpLFYK2hjzGQECF4B2I6s1x4jl1A="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PFJDhLOpubWb293Gy12Or3n/0H+1EIAHE4bg+DLoBWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PFJDhLOpubWb293Gy12Or3n/0H+1EIAHE4bg+DLoBWM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.obaihapwdt.ico",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3585"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PFJDhLOpubWb293Gy12Or3n/0H+1EIAHE4bg+DLoBWM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "obaihapwdt"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PFJDhLOpubWb293Gy12Or3n/0H+1EIAHE4bg+DLoBWM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeD7M/aQs3yEUAY2PmYsnarbLMPD7tpm7cDUZ1z1FW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeD7M/aQs3yEUAY2PmYsnarbLMPD7tpm7cDUZ1z1FW0="
+        }
+      ]
+    },
+    {
+      "Route": "index.vhafptv4wm.html",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HeD7M/aQs3yEUAY2PmYsnarbLMPD7tpm7cDUZ1z1FW0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vhafptv4wm"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HeD7M/aQs3yEUAY2PmYsnarbLMPD7tpm7cDUZ1z1FW0="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.png",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ec4Tv49YT8fv2alsQ4C3Mw4TaQYt6B1CdZAJxeB5yjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ec4Tv49YT8fv2alsQ4C3Mw4TaQYt6B1CdZAJxeB5yjc="
+        }
+      ]
+    },
+    {
+      "Route": "logo192.rbahvdx0ii.png",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ec4Tv49YT8fv2alsQ4C3Mw4TaQYt6B1CdZAJxeB5yjc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rbahvdx0ii"
+        },
+        {
+          "Name": "label",
+          "Value": "logo192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ec4Tv49YT8fv2alsQ4C3Mw4TaQYt6B1CdZAJxeB5yjc="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.ddbxrua3uq.png",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0UoiX6xUFHA4V4kbBFUr4kuknwpRR53FJoWJ08MPDak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ddbxrua3uq"
+        },
+        {
+          "Name": "label",
+          "Value": "logo512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0UoiX6xUFHA4V4kbBFUr4kuknwpRR53FJoWJ08MPDak="
+        }
+      ]
+    },
+    {
+      "Route": "logo512.png",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0UoiX6xUFHA4V4kbBFUr4kuknwpRR53FJoWJ08MPDak=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0UoiX6xUFHA4V4kbBFUr4kuknwpRR53FJoWJ08MPDak="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.json",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+        }
+      ]
+    },
+    {
+      "Route": "manifest.xnb7ssc67i.json",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\manifest.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "517"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xnb7ssc67i"
+        },
+        {
+          "Name": "label",
+          "Value": "manifest.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M/25nMLNOtjhgVsYtwBes/WASJkNgO58c67SiraaThk="
+        }
+      ]
+    },
+    {
+      "Route": "robots.rs9qwwwsq7.txt",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rs9qwwwsq7"
+        },
+        {
+          "Name": "label",
+          "Value": "robots.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
+        }
+      ]
+    },
+    {
+      "Route": "robots.txt",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\robots.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 04 Nov 2024 12:46:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5asNIx7rAbSpgtHHmmcpysl5etFaaSR+Tyi6avwUm0w="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.bfdf6ea8.1vzl2bgvyw.css",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zba05unOm3Vfzm8Qdnh/pvyVqltJ64hIulA78KjEtt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1vzl2bgvyw"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.bfdf6ea8.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zba05unOm3Vfzm8Qdnh/pvyVqltJ64hIulA78KjEtt8="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.bfdf6ea8.css",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50698"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zba05unOm3Vfzm8Qdnh/pvyVqltJ64hIulA78KjEtt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zba05unOm3Vfzm8Qdnh/pvyVqltJ64hIulA78KjEtt8="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.bfdf6ea8.css.fvie8y6q3o.map",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9fjeHxiRh+7nh9eIFlzk+ToPJTsIs0UyQeOcSUIWkE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvie8y6q3o"
+        },
+        {
+          "Name": "label",
+          "Value": "static/css/main.bfdf6ea8.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9fjeHxiRh+7nh9eIFlzk+ToPJTsIs0UyQeOcSUIWkE4="
+        }
+      ]
+    },
+    {
+      "Route": "static/css/main.bfdf6ea8.css.map",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9fjeHxiRh+7nh9eIFlzk+ToPJTsIs0UyQeOcSUIWkE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9fjeHxiRh+7nh9eIFlzk+ToPJTsIs0UyQeOcSUIWkE4="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.b34b723a.js",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3nfZHfsPdEdQxFjdEdbP5qOutQPIDkh6Qu7ExCTE0+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3nfZHfsPdEdQxFjdEdbP5qOutQPIDkh6Qu7ExCTE0+U="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.b34b723a.js.5pbowtahf3.map",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23651595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxriUHP7KdXeK2da7s5kCS0vQLD3TJ4JeXPtobFQt6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5pbowtahf3"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.b34b723a.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxriUHP7KdXeK2da7s5kCS0vQLD3TJ4JeXPtobFQt6I="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.b34b723a.js.LICENSE.o1b1fqss7a.txt",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dq2khf9SifivB8zyTLcEhtvl7Nz6cHhKNryz8CGzKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1b1fqss7a"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.b34b723a.js.LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dq2khf9SifivB8zyTLcEhtvl7Nz6cHhKNryz8CGzKM="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.b34b723a.js.LICENSE.txt",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1Dq2khf9SifivB8zyTLcEhtvl7Nz6cHhKNryz8CGzKM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1Dq2khf9SifivB8zyTLcEhtvl7Nz6cHhKNryz8CGzKM="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.b34b723a.js.map",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23651595"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xxriUHP7KdXeK2da7s5kCS0vQLD3TJ4JeXPtobFQt6I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xxriUHP7KdXeK2da7s5kCS0vQLD3TJ4JeXPtobFQt6I="
+        }
+      ]
+    },
+    {
+      "Route": "static/js/main.b34b723a.mmf75aqo0f.js",
+      "AssetFile": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1044306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3nfZHfsPdEdQxFjdEdbP5qOutQPIDkh6Qu7ExCTE0+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 02 Jan 2025 16:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mmf75aqo0f"
+        },
+        {
+          "Name": "label",
+          "Value": "static/js/main.b34b723a.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3nfZHfsPdEdQxFjdEdbP5qOutQPIDkh6Qu7ExCTE0+U="
+        }
+      ]
+    }
+  ]
+}

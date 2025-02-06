@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Critical-Events-Finder-Api.props" />
+</Project>

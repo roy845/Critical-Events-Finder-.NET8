@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.bfdf6ea8.css"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\css\\main.bfdf6ea8.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.bfdf6ea8.css.map"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.b34b723a.js"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.b34b723a.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\royatali\\source\\repos\\Critical-Events-Finder-Api\\Critical-Events-Finder-Api\\wwwroot\\static\\js\\main.b34b723a.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.b34b723a.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Critical-Events-Finder-Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Critical-Events-Finder-Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Critical-Events-Finder-Api.props",
+      "PackagePath": "build\\Critical-Events-Finder-Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Critical-Events-Finder-Api.props",
+      "PackagePath": "buildMultiTargeting\\Critical-Events-Finder-Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Critical-Events-Finder-Api.props",
+      "PackagePath": "buildTransitive\\Critical-Events-Finder-Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
