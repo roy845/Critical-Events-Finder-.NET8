@@ -6,6 +6,7 @@ using Critical_Events_Finder_Api.Interfaces;
 using Critical_Events_Finder_Api.Models;
 using Critical_Events_Finder_Api.Models.FileUploadAPI.Models;
 using Critical_Events_Finder_Api.Utilities;
+using Microsoft.Extensions.Options;
 using Newtonsoft.Json.Linq;
 using OfficeOpenXml;
 using System.Text;
@@ -16,20 +17,14 @@ namespace Critical_Events_Finder_Api.Services
     {
         private readonly IAmazonS3 _s3Client;
         private readonly string _bucketName;
-
-        public FileUploadService(IConfiguration configuration)
+       
+        public FileUploadService(IAmazonS3 s3Client,IOptions<AwsSettings> awsSettings)
         {
-          
-            _bucketName = configuration["AWS:BucketName"];
-
-            _s3Client = new AmazonS3Client(
-                configuration["AWS:AccessKey"],
-                configuration["AWS:SecretKey"],
-                RegionEndpoint.GetBySystemName(configuration["AWS:Region"])
-            );
+            _s3Client = s3Client;
+            _bucketName = awsSettings.Value.BucketName;
         }
 
-        // 📌 Upload Excel File
+        // Upload Excel File
         public async Task<FileUploadResponse> UploadExcelFile(IFormFile file)
         {
             if (file == null || file.Length == 0)
@@ -53,7 +48,7 @@ namespace Critical_Events_Finder_Api.Services
             return new FileUploadResponse { message = "Excel file uploaded successfully.", StatusCode = 200 };
         }
 
-        // 📌 Upload JSON File
+        // Upload JSON File
         public async Task<FileUploadResponse> UploadJSONFile(IFormFile file)
         {
             if (file == null || file.Length == 0)
@@ -77,7 +72,7 @@ namespace Critical_Events_Finder_Api.Services
             return new FileUploadResponse { message = "JSON file uploaded successfully.", StatusCode = 200 };
         }
 
-        // 📌 List Files in S3 Bucket (with pagination and search)
+        // List Files in S3 Bucket (with pagination and search)
         public async Task<ListAllFilesResponse> ListFiles(int page = 1, int limit = 10, string search = "")
         {
             try
@@ -127,7 +122,7 @@ namespace Critical_Events_Finder_Api.Services
             }
         }
 
-        // 📌 Delete a Specific File
+        // Delete a Specific File
         public async Task<FileUploadResponse> DeleteFile(string fileName)
         {
             try
@@ -143,7 +138,7 @@ namespace Critical_Events_Finder_Api.Services
             }
         }
 
-        // 📌 Delete All Files
+        // Delete All Files
         public async Task<FileUploadResponse> DeleteAllFiles()
         {
             try
@@ -179,7 +174,7 @@ namespace Critical_Events_Finder_Api.Services
             }
         }
 
-        // 📌 Create a Folder
+        // Create a Folder
         public async Task<FileUploadResponse> CreateFolder(string folderName)
         {
             try
@@ -203,7 +198,7 @@ namespace Critical_Events_Finder_Api.Services
             }
         }
 
-        // 📌 Download and Process File
+        // Download and Process File
         public async Task<FileUploadResponse> DownloadAndProcessFile(string file_name, string file_type)
         {
             try
@@ -253,7 +248,7 @@ namespace Critical_Events_Finder_Api.Services
                     }
                 }
 
-                // 📌 Process Excel File
+                // Process Excel File
                 if (file_type.Equals("xlsx", StringComparison.OrdinalIgnoreCase) || file_type.Equals("xls", StringComparison.OrdinalIgnoreCase))
                 {
                     using var excelStream = new MemoryStream(fileContent);
@@ -298,6 +293,7 @@ namespace Critical_Events_Finder_Api.Services
             }
         }
 
+        // Create Bucket
         public async Task<FileUploadResponse> CreateBucket(string bucketName)
         {
             try
